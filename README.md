@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### My name is David Gomez and I am a Software Engineer :computer: 
 
 ## Tech Stack
-- 🌱 I’m currently working on React.js and Python
+- I’m currently working with React.js and Python
 - **Framework -** Flask, Angular, React.js, Express.js 
 - **Database -** PostgreSQL, MySQL, Firebase
 - **Programming Language -** C, C++, R, Python, Java, Node.js
