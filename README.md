@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-### This is David Gomez. I am a Software Engineer :computer: 
+### My name is David Gomez and I am a Software Engineer :computer: 
 
 ## Tech Stack
-- 🌱 I’m currently working on React.js, Angular 9 and Python
-- **Framework -** Django, Angular 9, React.js, Express.js 
+- 🌱 I’m currently working on React.js and Python
+- **Framework -** Flask, Angular, React.js, Express.js 
 - **Database -** PostgreSQL, MySQL, Firebase
 - **Programming Language -** C, C++, R, Python, Java, Node.js
 - **Tool -** Jenkins, Confluence, JIRA, Git, Bitbucket, Github
